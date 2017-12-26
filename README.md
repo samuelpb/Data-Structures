@@ -25,7 +25,7 @@ Includes four projects, each of which used structures and methds provided by the
     read and listed by frequency.
       
           Functions I wrote:
-             LoadKeywordsFromDocument: Loads the keywords from the document into a hash table, stroing the word and its                                             frequency, calls GetKeyword
+             LoadKeywordsFromDocument: Loads the keywords from the document into a hash table, stroing the word and its frequency, calls GetKeyword
              GetKeyword: Checks the word that is scanned to see if it is a valid word by the stanards for the assignment
              MergeKeywords: Loads the words fromt the document into a global hash table storage of all words, 
                              calls InsertLastOccurrence
